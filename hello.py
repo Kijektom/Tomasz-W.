@@ -2,4 +2,5 @@ def hello_world():
     pass
 
 
-hello_world()
+message = hello_world()
+print(message)
