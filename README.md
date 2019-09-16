@@ -16,7 +16,7 @@ You have to use functions, parameters, call your function with arguments, and al
 4. Implement the main (outside any functions) part of `hello.py` so that it prints the result of `hello(name)` when called from the command line by `python3 hello.py <name>`
 5. Implement the main (outside any functions) part of `hello.py` so that it prints the result of `hello(name)` when called from the command line with multiple arguments by `python3 hello.py <name1> <name2> <name3>`. The required result is `"Hello, <name1> <name2> <name3>!"`
 
-## Requirements
+## Acceptance criteria
 
 - [1.1] MANDATORY! The returned string of the function is exactly "Hello, World!"
 - [1.2] Function `hello_world()` does not print itself.
